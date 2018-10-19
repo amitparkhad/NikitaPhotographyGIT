@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "327976772286",
+    "firebase_url": "https://snaps-nikita.firebaseio.com",
+    "project_id": "snaps-nikita",
+    "storage_bucket": "snaps-nikita.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327976772286:android:3da440de3eb747c0",
+        "android_client_info": {
+          "package_name": "com.apps.nikitaphotography"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327976772286-rffu4gonb4aahb88s3m390e2bm0hcbdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsH3r_ajoxpk96GbDGqHXB8PyNfy63v-I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
